@@ -1,3 +1,1 @@
-#Menggunakan Library
-streamlit
-google-generativeai
+#Menggunakan Library streamlit dan google-generativeai
